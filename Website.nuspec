@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Website</id>
+    <title>Website</title>
+    <version>1.0.0</version>
+    <authors>Ilia Timofeev</authors>
+    <owners>Ilia Timofeev</owners>
+    <licenseUrl>http://yourcompany.com</licenseUrl>
+    <projectUrl>http://yourcompany.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Habitat SiteCore</description>
+    <releaseNotes>This release don't contains any changess</releaseNotes>
+  </metadata>
+</package>
